@@ -12,8 +12,8 @@ http://www.springframework.org/schema/beans/spring-beans-2.0.xsd http://www.spri
 
         </aop:aspect>
     </aop:config>
-    <bean id="dog" class="com.app.Dog"></bean>
-    <bean id="cat" class="com.app.Cat"></bean>
-    <bean id="logging" class="com.app.Logging"></bean>
+    <bean id="dog" class="com.app.Dog"/>
+    <bean id="cat" class="com.app.Cat"/>
+    <bean id="logging" class="com.app.Logging"/>
 
 </beans>
